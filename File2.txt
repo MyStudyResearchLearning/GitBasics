@@ -1,3 +1,5 @@
 line4
 line5
 line6
+
+Modified line in file2
